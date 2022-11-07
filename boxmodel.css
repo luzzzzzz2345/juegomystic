@@ -1,0 +1,22 @@
+#rojo{
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    font-size: 32px;
+    border: 25px solid red;
+    padding: 40px;
+    margin: auto;
+    color: red;
+    text-align: center;
+}
+#black{
+    height: 200px;
+width: 400px;
+background-color: black;
+font-size: 32px;
+border: 25px solid royalblue; 
+padding: 40px;
+margin: auto;
+color: brown;
+}
+    

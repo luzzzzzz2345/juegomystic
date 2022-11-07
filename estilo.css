@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 60, 0);
+}
+h2 { color: blueviolet;
+
+}
+
+.nuevaFuente{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#cambioBolder {
+    font-weight: 1000 ;
+}
+
+table{
+ margin: 30px;
+}
